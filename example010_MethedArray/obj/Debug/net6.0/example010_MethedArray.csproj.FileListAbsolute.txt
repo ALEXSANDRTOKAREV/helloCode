@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\examples\example010_MethedArray\obj\Debug\net6.0\example010_MethedArray.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\examples\example010_MethedArray\obj\Debug\net6.0\example010_MethedArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\examples\example010_MethedArray\obj\Debug\net6.0\example010_MethedArray.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\examples\example010_MethedArray\obj\Debug\net6.0\example010_MethedArray.AssemblyInfo.cs
+C:\Users\user\Desktop\examples\example010_MethedArray\obj\Debug\net6.0\example010_MethedArray.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\examples\example010_MethedArray\bin\Debug\net6.0\example010_MethedArray.exe
+C:\Users\user\Desktop\examples\example010_MethedArray\bin\Debug\net6.0\example010_MethedArray.deps.json
+C:\Users\user\Desktop\examples\example010_MethedArray\bin\Debug\net6.0\example010_MethedArray.runtimeconfig.json
+C:\Users\user\Desktop\examples\example010_MethedArray\bin\Debug\net6.0\example010_MethedArray.dll
+C:\Users\user\Desktop\examples\example010_MethedArray\bin\Debug\net6.0\example010_MethedArray.pdb
+C:\Users\user\Desktop\examples\example010_MethedArray\obj\Debug\net6.0\example010_MethedArray.dll
+C:\Users\user\Desktop\examples\example010_MethedArray\obj\Debug\net6.0\refint\example010_MethedArray.dll
+C:\Users\user\Desktop\examples\example010_MethedArray\obj\Debug\net6.0\example010_MethedArray.pdb
+C:\Users\user\Desktop\examples\example010_MethedArray\obj\Debug\net6.0\example010_MethedArray.genruntimeconfig.cache
+C:\Users\user\Desktop\examples\example010_MethedArray\obj\Debug\net6.0\ref\example010_MethedArray.dll
